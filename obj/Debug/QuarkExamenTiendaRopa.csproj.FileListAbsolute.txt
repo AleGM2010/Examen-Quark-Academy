@@ -1,0 +1,11 @@
+C:\Users\Alesa\source\repos\QuarkExamenTiendaRopa\bin\Debug\QuarkExamenTiendaRopa.exe.config
+C:\Users\Alesa\source\repos\QuarkExamenTiendaRopa\bin\Debug\QuarkExamenTiendaRopa.exe
+C:\Users\Alesa\source\repos\QuarkExamenTiendaRopa\bin\Debug\QuarkExamenTiendaRopa.pdb
+C:\Users\Alesa\source\repos\QuarkExamenTiendaRopa\obj\Debug\QuarkExamenTiendaRopa.csproj.AssemblyReference.cache
+C:\Users\Alesa\source\repos\QuarkExamenTiendaRopa\obj\Debug\QuarkExamenTiendaRopa.Form1.resources
+C:\Users\Alesa\source\repos\QuarkExamenTiendaRopa\obj\Debug\QuarkExamenTiendaRopa.Properties.Resources.resources
+C:\Users\Alesa\source\repos\QuarkExamenTiendaRopa\obj\Debug\QuarkExamenTiendaRopa.csproj.GenerateResource.cache
+C:\Users\Alesa\source\repos\QuarkExamenTiendaRopa\obj\Debug\QuarkExamenTiendaRopa.csproj.CoreCompileInputs.cache
+C:\Users\Alesa\source\repos\QuarkExamenTiendaRopa\obj\Debug\QuarkExamenTiendaRopa.exe
+C:\Users\Alesa\source\repos\QuarkExamenTiendaRopa\obj\Debug\QuarkExamenTiendaRopa.pdb
+C:\Users\Alesa\source\repos\QuarkExamenTiendaRopa\obj\Debug\QuarkExamenTiendaRopa.Vista.Form3.resources
